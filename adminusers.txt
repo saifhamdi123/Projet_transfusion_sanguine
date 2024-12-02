@@ -1,0 +1,4 @@
+aziz aguir aziz auaz infirmier 12345678 aziz.guir@az.a male 97331225 azea 01/01/0001 azeaz 01/01/0001
+admin admin admin admin admin 93236576 mohamedaziz.aguir@esprit.tn male 11111111 khniss 12/09/2001 monastir 7/7/2023
+saif saif saif hamdi director 99764544 saif.hamdi@esprit.tn male 99764544 bassatine 30/06/2002 kasserine 7/7/2023
+test test test test nurse 12345678 aziz@.c female 22222222 azeaz 01/01/0001 azeaz 00/01/0001 	
